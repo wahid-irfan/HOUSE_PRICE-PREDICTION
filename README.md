@@ -1,5 +1,16 @@
 # HOUSE_PRICE-PREDICTION
 
+![image](https://github.com/wahid-irfan/HOUSE_PRICE-PREDICTION/assets/139098947/915af8d2-5d69-4601-b73c-b518f6981fe2)
+
+
+
+
+
+
+
+
+
+
 Linear regression is a statistical method that can be used to predict a continuous variable from one or more other variables. In the case of house pricing, we can use linear regression to predict the price of a house from its features, such as the size of the house, the number of bedrooms, the number of bathrooms, the location, and so on.
 
 The basic idea behind linear regression is that there is a linear relationship between the independent variables (the features of the house) and the dependent variable (the price of the house). This means that we can model the price of the house as a linear function of the features of the house.
